@@ -1,22 +1,17 @@
 [
   {
-    "repository": "nitin1438/android_kernel_lge_mako",
+    "repository": "TeamHorizon/android_kernel_lge_mako",
     "target_path": "kernel/lge/mako",
     "branch": "n"
   },
   {
-    "repository": "nitin1438/android_hardware_qcom_msm8960",
+    "repository": "TeamHorizon/android_hardware_qcom_msm8960",
     "target_path": "hardware/qcom/msm8960",
     "branch": "n"
   },
   {
-    "repository": "nitin1438/android_vendor_lge_mako",
+    "repository": "TeamHorizon/android_vendor_lge_mako",
     "target_path": "vendor/lge/mako",
     "branch": "n"
-  },
-  {
-    "repository": "aosp-msm8960/android_hardware_qcom_media",
-    "target_path": "hardware/qcom/media",
-    "branch": "nougat-release"
   }
 ]
