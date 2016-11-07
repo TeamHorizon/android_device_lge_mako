@@ -10,8 +10,8 @@
     "branch": "n"
   },
   {
-    "repository": "TeamHorizon/android_vendor_lge_mako",
-    "target_path": "vendor/lge/mako",
+    "repository": "TeamHorizon/vendor_lge",
+    "target_path": "vendor/lge",
     "branch": "n"
   }
 ]
