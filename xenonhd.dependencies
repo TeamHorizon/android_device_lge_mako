@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "TeamHorizon/android_kernel_lge_mako",
+    "target_path": "kernel/lge/mako",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/android_hardware_qcom_msm8960",
+    "target_path": "hardware/qcom/msm8960",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "n"
+  }
+]
