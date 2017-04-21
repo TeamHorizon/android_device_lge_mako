@@ -19,3 +19,6 @@ PRODUCT_MODEL := Nexus 4
 PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer=Nitin1438
+
+# Use magisk root
+ROOT_METHOD=magisk
